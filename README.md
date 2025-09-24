@@ -1,1 +1,1 @@
-The files in here are just a smattering of TypeScript files I made while following (Codevolution's TypeScript React tutorials)[https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK] to teach myself the basics of the language. 
+The files in here are just a smattering of TypeScript files I made while following [Codevolution's TypeScript React tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) to teach myself the basics of the language. 
